@@ -1,0 +1,1 @@
+RapidFetch-Releases
